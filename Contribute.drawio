@@ -58,7 +58,7 @@
           <mxGeometry x="140" y="317.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-BuVdV_2OspmX_b7piN3-10" value="&lt;font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Enhanced Runtime Instrumentation&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="190" y="169" width="100" height="41" as="geometry" />
+          <mxGeometry x="181.25" y="169" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="uX6bZwDJ5xpK4--nATbD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-BuVdV_2OspmX_b7piN3-19" target="uX6bZwDJ5xpK4--nATbD-22">
           <mxGeometry relative="1" as="geometry" />
